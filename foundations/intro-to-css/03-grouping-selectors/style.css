@@ -1,0 +1,13 @@
+.mainbutton,
+.altbutton {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.mainbutton {
+    background-color: black;
+    color: white;
+}
+
+.altbutton {
+    background-color: yellow;
+}
